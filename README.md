@@ -114,7 +114,7 @@ Currently outdated repo mirrors:
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 - [Geopard](https://github.com/ranfdev/Geopard) (Rust) - A colorful, adaptive gemini browser.
 - [vimini](https://git.sr.ht/~lufte/vimini) (Rust) - Desktop gemini browser inspired by qutebrowser and Vim.
-- [Yoda](https://github.com/YGGverse/Yoda) (PHP-GTK) - Experimental browser for Gemini Protocol based on [PHP-GTK](https://github.com/scorninpc/php-gtk3) and [gemini-php](https://github.com/YGGverse/gemini-php).
+- [Yoda](https://github.com/YGGverse/Yoda) (Rust) - GTK 4 / Libadwaita client written in Rust.
 
 #### Mobile
 - [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane.
@@ -166,6 +166,8 @@ Currently outdated repo mirrors:
 - [gemini-php](https://github.com/YGGverse/gemini-php) (PHP) - Composer library that includes TLS / socket client, Gemtext parser and DokuWiki tools.
 - [gemtext-php](https://github.com/YGGverse/gemtext-php) (PHP) - object-oriented library for Gemtext operations.
 - [titanite](https://github.com/YGGverse/titanite) (Rust) - Client/Server library for Gemini protocol with Titan support
+- [ggemtext](https://github.com/YGGverse/ggemtext) (Rust) - Glib-oriented Gemtext API
+- [ggemini](https://github.com/YGGverse/ggemini) (Rust) - Glib/Gio-oriented client for Gemini protocol
 
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
@@ -251,6 +253,7 @@ Currently outdated repo mirrors:
 - [tripod](https://github.com/aartaka/tripod) (Common Lisp) - Polyglot blog engine serving Gemtext, Gopher, HTML, and plaintext
 - [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS aggregation server for Gemini Protocol
 - [titanit](https://github.com/YGGverse/titanit) (Rust) - File share server for Titan protocol with Gemini frontend
+- [βtracker](https://github.com/YGGverse/btracker-gemini) (Rust) - BitTorrent catalog for the Gemini protocol
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
